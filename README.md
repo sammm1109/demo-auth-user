@@ -37,9 +37,9 @@ This command will start the application. Since this app is created with Expo, if
 
 ## Screenshots
 
-![App Screenshot](assets/screenshots/signup_page.png)
-![App Screenshot](assets/screenshots/login_page.png)
+![App Screenshot](assets/screenshots/signup_page.PNG)
+![App Screenshot](assets/screenshots/login_page.PNG)
 
 ## Demo Video
 
-[Download demo video](assets/screenshots/demo.mp4)
+[Download demo video](assets/screenshots/demo.MP4)
