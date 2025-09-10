@@ -42,4 +42,4 @@ This command will start the application. Since this app is created with Expo, if
 
 ## Demo Video
 
-[Download demo video](assets/screenshots/demo.MP4)
+![Demo Video](assets/screenshots/demo.gif)
